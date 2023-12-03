@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class N_4SumOfTwoNumbers {
+public class N4_SumOfTwoNumbers {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

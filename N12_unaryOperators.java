@@ -1,4 +1,4 @@
-public class N_12unaryOperators {
+public class N12_unaryOperators {
     public static void main(String[] args) {
         int p = 5, q = 5;
 

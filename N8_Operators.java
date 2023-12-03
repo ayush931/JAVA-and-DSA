@@ -1,4 +1,4 @@
-public class N_8Operators {
+public class N8_Operators {
     public static void main(String[] args) {
         int p =  20, q = 10;
 

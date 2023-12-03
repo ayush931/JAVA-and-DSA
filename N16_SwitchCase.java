@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class N_16SwitchCase {
+public class N16_SwitchCase {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int day = sc.nextInt();

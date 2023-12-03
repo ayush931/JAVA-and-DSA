@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class N_5simpleInterest {
+public class N5_simpleInterest {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

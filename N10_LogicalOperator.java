@@ -1,4 +1,4 @@
-public class N_10LogicalOperator {
+public class N10_LogicalOperator {
     public static void main(String[] args) {
         int p = 15, q = 10, r = 5;
 

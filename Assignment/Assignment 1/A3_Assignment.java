@@ -1,6 +1,4 @@
-package Assignment1;
-
-public class P_3Assignment {
+public class A3_Assignment {
     public static void main(String[] args) {
 
         int length = 7;

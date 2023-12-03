@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class N_15ConditionalOperator {
+public class N15_ConditionalOperator {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int value = sc.nextInt();

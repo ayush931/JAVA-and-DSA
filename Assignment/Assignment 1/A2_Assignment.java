@@ -1,6 +1,4 @@
-package Assignment1;
-
-public class P_2Assignment {
+public class A2_Assignment {
         public static void main(String[] args) {
 
             int x = 'U';

@@ -1,4 +1,4 @@
-public class N_11AssignmentOperators {
+public class N11_AssignmentOperators {
     public static void main(String[] args) {
         int p = 10;
         int q;

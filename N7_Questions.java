@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class N_7Questions {
+public class N7_Questions {
     public static void main(String[] args) {
 
         Scanner s = new Scanner(System.in);

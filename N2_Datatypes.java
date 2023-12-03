@@ -1,4 +1,4 @@
-public class N_2Datatypes {
+public class N2_Datatypes {
     public static void main(String[] args) {
         int money = 2000; // 'int' is datatype called integer.
         System.out.println(money);

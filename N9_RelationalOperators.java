@@ -1,4 +1,4 @@
-public class N_9RelationalOperators {
+public class N9_RelationalOperators {
     public static void main(String[] args) {
         int p = 10, q = 15;
 

@@ -1,6 +1,4 @@
-package Assignment1;
-
-public class P_4Assignment {
+public class A4_Assignment {
     public static void main(String[] args) {
 
         int num = 4;
